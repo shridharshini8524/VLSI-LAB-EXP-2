@@ -13,31 +13,31 @@ Spartan6 FPGA
 
 **LOGIC DIAGRAM**
 
-ENCODER
+ENCODER:
 
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/3cd1f95e-7531-4cad-9154-fdd397ac439e)
 
 
-DECODER
+DECODER:
 
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/45a5e6cf-bbe0-4fd5-ac84-e5ad4477483b)
 
 
-MULTIPLEXER
+MULTIPLEXER:
 
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/427f75b2-8e67-44b9-ac45-a66651787436)
 
 
-DEMULTIPLEXER
+DEMULTIPLEXER:
 
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/1c45a7fc-08ac-4f76-87f2-c084e7150557)
 
 
-MAGNITUDE COMPARATOR
+MAGNITUDE COMPARATOR:
 
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/b2fe7a05-6bf7-4dcb-8f5d-28abbf7ea8c2)
@@ -45,6 +45,7 @@ MAGNITUDE COMPARATOR
 
   
 PROCEDURE:
+
 
 STEP:1  Start  the Xilinx navigator, Select and Name the New project.
 
@@ -70,6 +71,7 @@ STEP:11  On the board, by giving required input, the LEDs starts to glow light, 
 
 
 VERILOG CODE
+
 
 ENCODER:
 ~~~
@@ -164,15 +166,18 @@ OUTPUT WAVEFORM:
 
 ENCODER:
 
+
 ![WhatsApp Image 2024-04-14 at 19 35 31_f6f66d1d](https://github.com/shridharshini8524/VLSI-LAB-EXP-2/assets/148639799/d0b0b8cf-ee61-4ca9-a1ac-cf39992a877c)
 
 
 DECODER:
 
+
 ![WhatsApp Image 2024-04-14 at 19 37 09_86bde8e8](https://github.com/shridharshini8524/VLSI-LAB-EXP-2/assets/148639799/38b497be-2d84-4cdd-9e60-84c2eff2699c)
 
 
 MULTIPLEXER:
+
 
 ![WhatsApp Image 2024-04-14 at 19 40 26_ad38d26b](https://github.com/shridharshini8524/VLSI-LAB-EXP-2/assets/148639799/11aaede6-d936-4a39-8676-4caba84d8698)
 
@@ -190,6 +195,7 @@ MAGNITUDE COMPARATOR:
 
 
 RESULT:
+
 
 simulation and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE is verified.
 
