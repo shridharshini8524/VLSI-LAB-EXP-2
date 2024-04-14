@@ -11,7 +11,7 @@ APPARATUS REQUIRED:
 Xilinx 14.7
 Spartan6 FPGA
 
-**LOGIC DIAGRAM**
+**LOGIC DIAGRAM**:
 
 ENCODER:
 
@@ -70,7 +70,7 @@ STEP:10 Double click on the Implement Design and double click on the Generate Pr
 STEP:11  On the board, by giving required input, the LEDs starts to glow light, indicating the output.
 
 
-VERILOG CODE
+VERILOG CODE:
 
 
 ENCODER:
