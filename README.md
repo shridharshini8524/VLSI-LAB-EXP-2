@@ -71,7 +71,11 @@ STEP:11  On the board, by giving required input, the LEDs starts to glow light, 
 
 
 VERILOG CODE:
+
+
 DEVELOPED BY:S.SHRIDHARSHINI.
+
+
 REGISTER NUMBER:212222060240.
 
 
