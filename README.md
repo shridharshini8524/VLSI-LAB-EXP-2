@@ -7,13 +7,11 @@ DATE :
 AIM: 
 
 
- To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE.
+ To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Vivado.
 
 APPARATUS REQUIRED:
 
-
-Xilinx 14.7
-Spartan6 FPGA
+Vivado software
 
 **LOGIC DIAGRAM**:
 
